@@ -1,5 +1,5 @@
 # Author:Samuel Jim Nnamdi
-# Project: Prediction using decisionTree Algorithm
+# Project: Prediction using naive Bayes Algorithm
 # Date: April 26th 2019
 
 # Import Libraries
